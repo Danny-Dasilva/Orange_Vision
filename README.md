@@ -5,7 +5,7 @@ https://pypi.org/project/Orange_Vision/
 
 ### How to use
 
-`pip3 install Orange_Vision`
+`sudo pip3 install Orange_Vision`
  
 > sudo is for running scripts
 
